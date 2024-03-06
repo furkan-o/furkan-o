@@ -21,9 +21,9 @@ I'm Furkan who does dumb things in his spare. Coding with *C#* /sigh/ and our be
 
 - [4 Axis Foam Cutter](https://github.com/furkan-o/4-Axis-Foam-Cutter) (Creating repo, will be public asap.)
   
-- [Firefighting Quadcopter](https://github.com/furkan-o/PUHU-Project) (Project-based, private repo)
+- [Firefighting Quadcopter(UAVTURKEY Project)](https://github.com/furkan-o/PUHU-Project) (Project-based, team private repo)
   
-- [Payload Delivery Fixed Wing UAS](https://github.com/furkan-o/YILKI-Project) (Project-based, private repo)
+- [Payload Delivery Fixed Wing UAS(UAVTURKEY Project)](https://github.com/furkan-o/YILKI-Project) (Project-based, team private repo)
 
 <div align="center"><sup><sub><sup>01000111 01101001 01110100 00100000 01010011 01110100 01100001 01110100 01110011 00100000 01000111 01101001 01110100 00100000 01010011 01110100 01100001 01110100 01110011 00100000</sup></sub></sup></div>
 
