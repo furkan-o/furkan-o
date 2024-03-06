@@ -28,7 +28,6 @@ I'm Furkan who does dumb things in his spare. Coding with *C#* /sigh/ and our be
 <div align="center"><sup><sub><sup>01000111 01101001 01110100 00100000 01010011 01110100 01100001 01110100 01110011 00100000 01000111 01101001 01110100 00100000 01010011 01110100 01100001 01110100 01110011 00100000</sup></sub></sup></div>
 
 <div align="center">
-<img align="center" src="https://github-trophies.vercel.app/?username=furkan-o&theme=juicyfresh&no-frame=true&no-bg=true&row=1&column=2" />
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=furkan-o&theme=juicyfresh&no-frame=true&no-bg=true" />
 </div>
 
