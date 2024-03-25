@@ -33,9 +33,9 @@ I'm Furkan who does dumb things in his spare. Coding with *C#* /sigh/ and our be
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=furkan-o&theme=juicyfresh&no-frame=true&no-bg=true" />
 </div>
 
-<div align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img height=150 align="center" src="https://github-readme-stats-ashy-seven-60.vercel.app/api?username=furkan-o&show_icons=true&count_private=true&theme=darcula&hide_border=true&bg_color=00000000&hide=issues,contribs&rank_icon=github" />
+<div align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img height=150 align="center" src="https://github-readme-stats-ashy-seven-60.vercel.app/api?username=furkan-o&include_all_commits=true&show_icons=true&count_private=true&theme=darcula&hide_border=true&bg_color=00000000&hide=issues,contribs&rank_icon=github&cache_seconds=21600" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img height=150 align="center" src="https://github-readme-stats-ashy-seven-60.vercel.app/api/top-langs/?username=furkan-o&&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&card_width=320&cache_seconds=21600" />
+<a href="https://github.com/anuraghazra/github-readme-stats"><img height=150 align="center" src="https://github-readme-stats-ashy-seven-60.vercel.app/api/top-langs/?username=furkan-o&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&card_width=320&cache_seconds=21600" />
 </a></div>
 
 <div align="center"><sup><sub><sup>Y29uZ3JhdHVsYXRpb25zIGZvciBiZWluZyBza2lsbGZ1bCBlbm91Z2ggdG8gZmluZCB0aGlzIGluZm8uIHRoZSBjb250YWN0IGluZm8geW91J3JlIHdhaXRpbmcgZm9yOyBkaXNjb3JkOiBzb21lMXdob2NhcmVzIGxhdW5jaHBhZDogc29tZTF3aDBjYXJlcw</sup></sub></sup></div>
