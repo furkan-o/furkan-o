@@ -1,4 +1,4 @@
-### Heya<img src="https://raw.githubusercontent.com/furkan-o/furkan-o/master/hey.gif" width="30">, what's up?
+### Heya <img src="https://raw.githubusercontent.com/furkan-o/furkan-o/main/hey.gif" width="35">, what's up?
 
 <div align="center"><sup><sub><sup>01000001 01100010 01101111 01110101 01110100 00100000 01001101 01100101 00100000 01000001 01100010 01101111 01110101 01110100 00100000 01001101 01100101 00100000</sup></sub></sup></div>
 
