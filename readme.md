@@ -37,7 +37,7 @@ I'm Furkan who does dumb things in his spare. Coding with *C#* /sigh/ and our be
 </div>
   
 <div align="center">
-<img align="center" src="https://github-profile-trophy-rust.vercel.app/?username=furkan-o&theme=juicyfresh&no-frame=true&no-bg=true" />
+<img align="center" src="https://github-profile-trophy-rust.vercel.app/?username=furkan-o&title=-Stars,-Followers,-Issues,-PullRequest,-Reviews&theme=juicyfresh&no-frame=true&no-bg=true" />
 </div>
 
 <div align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img height=150 align="center" src="https://github-readme-stats-ashy-seven-60.vercel.app/api?username=furkan-o&include_all_commits=true&show_icons=true&count_private=true&theme=darcula&hide_border=true&bg_color=00000000&hide=issues,contribs&rank_icon=github&cache_seconds=21600" />
