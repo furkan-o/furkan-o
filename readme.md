@@ -36,7 +36,6 @@ I'm Furkan who does dumb things in his spare. Coding with *C#* /sigh/ and our be
 
 <div align="center">
 <img align="center" src="http://github-profile-summary-phi.vercel.app/api/cards/productive-time?username=furkan-o&theme=transparent&utcOffset=3"/>
-<img align="center" src="http://github-profile-summary-phi.vercel.app/api/cards/most-commit-language?username=furkan-o&theme=transparent"/>
 </div>
   
 <div align="center">
