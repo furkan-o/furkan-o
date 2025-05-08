@@ -4,7 +4,7 @@
 
 I'm Furkan who does dumb things in his spare. Coding with *C#* /sigh/ and our beloved snake *Python*.
 
-- 👨🏻‍💻 Currently working on [DIY Braille Printer and text to braille print app for Win](https://github.com/furkan-o/GCODE-File-Select), so I could be slow to respond. Apologize in advance for my slowness, please don't swear.
+- 👨🏻‍💻 Currently working on my thesis. I've suspended everything else, so there'll be no progress on the projects.
 
 - 💡 If you need any help about UASes, 3D Printers, CNCs or any kinematic system, just let me know.
 
