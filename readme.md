@@ -20,16 +20,6 @@ I'm Furkan who does dumb things in his spare. Coding with *C#* /sigh/ and our be
 <div align="center"><img src="https://images.credly.com/size/680x680/images/fce226c2-0f13-4e17-b60c-24fa6ffd88cb/Intro2IoT.png" width="75px">  <img src="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="75px"> <img src="https://images.credly.com/size/680x680/images/3f802526-7274-4230-91ab-f6d1a35340e6/image.png" width="75px"></div>
 
 
-<div align="center"><sup><sub><sup>01010000 01110010 01101111 01101010 01100101 01100011 01110100 01110011 00100000 01010000 01110010 01101111 01101010 01100101 01100011 01110100 01110011 00100000</sup></sub></sup></div>
-  
-#### 🚀 Past Projects
-
-- [4 Axis Foam Cutter](https://github.com/furkan-o/4-Axis-Foam-Cutter) (Creating repo, will be public asap.)
-  
-- [Firefighting Quadcopter(UAVTURKEY Project)](https://github.com/furkan-o/PUHU-Project) (Project-based, team private repo)
-  
-- [Payload Delivery Fixed Wing UAS(UAVTURKEY Project)](https://github.com/furkan-o/YILKI-Project) (Project-based, team private repo)
-
 <div align="center"><sup><sub><sup>01000111 01101001 01110100 00100000 01010011 01110100 01100001 01110100 01110011 00100000 01000111 01101001 01110100 00100000 01010011 01110100 01100001 01110100 01110011 00100000</sup></sub></sup></div>
 
 #### 📈 GitHub Stats
