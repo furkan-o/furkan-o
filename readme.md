@@ -38,19 +38,6 @@
 
 ---
 
-### 📌 Featured Projects
-
-| Project | Language | Description |
-| --- | --- | --- |
-| 🔴🔵 **[raspi-img-pro-red-and-blue](https://github.com/furkan-o/raspi-img-pro-red-and-blue)** | Python | Simple Python code for identifying red and blue circles on a Raspberry Pi live camera. |
-| 🚌 **[Servis-Optimizasyon-KDS](https://github.com/furkan-o/Servis-Optimizasyon-KDS)** | C# | Decision support system determining the optimal service route and vehicle combination based on employee addresses. |
-| ⛓️ **[Blockchain-Translation-System](https://github.com/furkan-o/Blockchain-Translation-System)** | Solidity | A Solidity smart contract managing and verifying translations through peer review and community voting. |
-| 🖱️ **[mouse-jiggler](https://github.com/furkan-o/mouse-jiggler)** | C++ | Hardware mouse jiggler utilizing an STM32 Blue Pill. |
-| 🧹 **[Windows Maid & PowerShell](https://gist.github.com/furkan-o)** | PowerShell | Automation scripts for caching, log management, and Windows folder destruction. |
-
----
-
-
 ### 📈 GitHub Stats
 
 <div align="center">
