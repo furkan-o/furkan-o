@@ -1,45 +1,84 @@
-### Heya <img src="https://raw.githubusercontent.com/furkan-o/furkan-o/main/hey.gif" width="25">, what's up?
-
-<div align="center"><sup><sub><sup>01000001 01100010 01101111 01110101 01110100 00100000 01001101 01100101 00100000 01000001 01100010 01101111 01110101 01110100 00100000 01001101 01100101 00100000</sup></sub></sup></div>
-
-I'm Furkan who does dumb things in his spare. Coding with *C#* /sigh/ and our beloved snake *Python*.
-
-- 👨🏻‍💻 Currently working on my thesis. I've suspended everything else, so there'll be no progress on the projects.
-
-- 💡 If you need any help about UASes, 3D Printers, CNCs or any kinematic system, just let me know.
-
-- ✈️ Competant with Pixhawk FCs and ArduPlane, Arducopter, PX4 Autopilot, Betaflight Firmwares.
-
-- 📨 (Discord&IRC) If you're asking how to get in touch, you haven't looked at the page sufficiently.
-
-- 📩 for other things : github [at] route [dot] slmail [dot] me
-
-#### 🧰 Tech Stack
-![Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=Stack&align=center&showBorder=false&lineHeight=5&lineCount=2&theme=github&gap=3&width=980&hideBg=true&hideTitle=true&bg=%23FFFFFF&badge=%23EAEFFC&border=%23D8DEE4&titleColor=%230969DA&line1=csharp%2Cc%2523%2C512BD4%3Bmysql%2Cmysql%2C4479A1%3Bcss3%2Ccss3%2C1572B6%3Bhtml5%2Chtml5%2CE34F26%3Bjavascript%2Cjavascr%C4%B1pt%2CF7DF1E%3Bphp%2Cphp%2C777BB4%3Bpython%2Cpython%2C3776AB%3Bpowershell%2Cpowershell%2C5391FE%3B.net%2C.net%2C512BD4%3B&line2=windows%2Cw%C4%B1ndows%2C0078D4%3Blinux%2Cl%C4%B1nux%2CFCC624%3Bopencv%2Copencv%2C5C3EE8%3Barduino%2Cardu%C4%B1no%2C00878F%3Braspberrypi%2Craspberrypi%2CA22846%3Bjira%2Cjira%2C0052CC%3Bcrowdin%2Ccrowd%C4%B1n%2C2E3340%3Bconfluence%2Cconfluence%2C172B4D%3Bstmicroelectronics%2CSTM%2C03234B%3B)
-
-<div align="center"><img src="https://images.credly.com/size/680x680/images/fce226c2-0f13-4e17-b60c-24fa6ffd88cb/Intro2IoT.png" width="75px">  <img src="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="75px"> <img src="https://images.credly.com/size/680x680/images/3f802526-7274-4230-91ab-f6d1a35340e6/image.png" width="75px"></div>
-
-
-<div align="center"><sup><sub><sup>01000111 01101001 01110100 00100000 01010011 01110100 01100001 01110100 01110011 00100000 01000111 01101001 01110100 00100000 01010011 01110100 01100001 01110100 01110011 00100000</sup></sub></sup></div>
-
-#### 📈 GitHub Stats
-
 <div align="center">
-<img align="center" src="http://github-profile-summary-phi.vercel.app/api/cards/productive-time?username=furkan-o&theme=transparent&utcOffset=3"/>
-</div>
-  
-<div align="center">
-<img align="center" src="https://github-profile-trophy-rust.vercel.app/?username=furkan-o&theme=dark_lover&no-frame=true&no-bg=true&margin-w=15" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Heya,%20I'm%20Furkan!&fontSize=70" />
 </div>
 
-<div align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img height=150 align="center" src="https://github-readme-stats-ashy-seven-60.vercel.app/api?username=furkan-o&include_all_commits=true&show_icons=true&count_private=true&theme=darcula&hide_border=true&bg_color=00000000&hide=issues,contribs&rank_icon=github&cache_seconds=21600" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img height=150 align="center" src="https://github-readme-stats-ashy-seven-60.vercel.app/api/top-langs/?username=furkan-o&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&card_width=320&cache_seconds=21600" />
-</a></div>
+<h3 align="center">Software Developer & Hardware Enthusiast</h3>
 
-<div align="center"><sup><sub><sup>Y29uZ3JhdHVsYXRpb25zIGZvciBiZWluZyBza2lsbGZ1bCBlbm91Z2ggdG8gZmluZCB0aGlzIGluZm8uIHRoZSBjb250YWN0IGluZm8geW91J3JlIHdhaXRpbmcgZm9yOyBkaXNjb3JkOiBzb21lMXdob2NhcmVzIGxhdW5jaHBhZDogc29tZTF3aDBjYXJlcw</sup></sub></sup></div>
-
-<div align="center"><img align="center" src="https://komarev.com/ghpvc/?username=furkan-o&style=for-the-badge&color=red&abbreviated=true" /></div>
+<div align="center">
+  <a href="https://github.com/furkan-o"><img src="https://img.shields.io/badge/GitHub-furkan--o-181717?style=flat&logo=github" alt="GitHub" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Status-Turtle_Mode_🐢-orange?style=flat" alt="Status" /></a>
+</div>
 
 
 
+---
+
+### 👨🏻‍💻 About Me
+
+- 🔬 **Current Focus:** Currently working on my thesis involving some **AI thing**. I've suspended everything else, so there'll be no progress on side projects.
+- 💡 **Domain Expertise:** If you need any help about UASes, 3D Printers, CNCs or any kinematic system, just let me know.
+- ✈️ **Hardware & Firmware:** Competent with Pixhawk FCs and ArduPlane, Arducopter, PX4 Autopilot, Betaflight Firmwares.
+- 📫 **Contact:** `github [at] route [dot] slmail [dot] me`
+
+---
+
+### 🧰 Tech Stack & Tools
+
+<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=cs,python,cpp,dotnet,arduino,raspberrypi,powershell,linux,windows,mysql,html,css,js,php,opencv,solidity&theme=dark&perline=8" /> </a> </p>
+
+<br>
+
+<div align="center">
+  <a href="#"><img src="https://images.credly.com/size/680x680/images/fce226c2-0f13-4e17-b60c-24fa6ffd88cb/Intro2IoT.png" width="75px" alt="Intro to IoT"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="75px" alt="IoT Security"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="https://images.credly.com/size/680x680/images/3f802526-7274-4230-91ab-f6d1a35340e6/image.png" width="75px" alt="Certification"></a>
+</div>
+
+---
+
+### 📌 Featured Projects
+
+| Project | Language | Description |
+| --- | --- | --- |
+| 🔴🔵 **[raspi-img-pro-red-and-blue](https://github.com/furkan-o/raspi-img-pro-red-and-blue)** | Python | Simple Python code for identifying red and blue circles on a Raspberry Pi live camera. |
+| 🚌 **[Servis-Optimizasyon-KDS](https://github.com/furkan-o/Servis-Optimizasyon-KDS)** | C# | Decision support system determining the optimal service route and vehicle combination based on employee addresses. |
+| ⛓️ **[Blockchain-Translation-System](https://github.com/furkan-o/Blockchain-Translation-System)** | Solidity | A Solidity smart contract managing and verifying translations through peer review and community voting. |
+| 🖱️ **[mouse-jiggler](https://github.com/furkan-o/mouse-jiggler)** | C++ | Hardware mouse jiggler utilizing an STM32 Blue Pill. |
+| 🧹 **[Windows Maid & PowerShell](https://gist.github.com/furkan-o)** | PowerShell | Automation scripts for caching, log management, and Windows folder destruction. |
+
+---
+
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-profile-trophy-rust.vercel.app/?username=furkan-o&theme=dark_lover&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="150" src="https://github-readme-stats-ashy-seven-60.vercel.app/api?username=furkan-o&include_all_commits=true&show_icons=true&count_private=true&theme=darcula&hide_border=true&bg_color=00000000&hide=issues,contribs&rank_icon=github&cache_seconds=21600" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="150" src="https://github-readme-stats-ashy-seven-60.vercel.app/api/top-langs/?username=furkan-o&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&card_width=320&cache_seconds=21600" alt="Top Languages" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="http://github-profile-summary-phi.vercel.app/api/cards/productive-time?username=furkan-o&theme=transparent&utcOffset=3" alt="Productive Time" />
+</div>
+
+<br>
+
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=furkan-o&style=flat&color=red&abbreviated=true" alt="Profile Views" />
+</div>
